@@ -1,1 +1,4 @@
-Test message!
+Hello ServerUi user, I would just like to say that I am working on some pretty big \n
+updates right now, one of them including this, the message you are seeing right now. \n
+The message is stored on github and I will be using this message to update \n
+users on what is currently going on. Thanks! \n
